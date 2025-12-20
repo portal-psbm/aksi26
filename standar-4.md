@@ -4,7 +4,7 @@ title: Standar 4
 permalink: /standar-4/
 ---
 
-# Standar 4: Sumber Daya Manusia
+# 👨‍🏫 Standar 4: Sumber Daya Manusia
 
 - **Dosen**: 
   - Jumlah & kualifikasi (S2/S3)
