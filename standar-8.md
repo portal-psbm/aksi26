@@ -4,7 +4,7 @@ title: Standar 8
 permalink: /standar-8/
 ---
 
-# Standar 8: Penelitian, Pengabdian kepada Masyarakat, dan Luaran
+# 🔬 Standar 8: Penelitian, Pengabdian kepada Masyarakat, dan Luaran
 
 - **Penelitian**: 
   - Jumlah judul per tahun
