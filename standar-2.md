@@ -4,7 +4,7 @@ title: Standar 2
 permalink: /standar-2/
 ---
 
-# Standar 2: Tata Pamong, Tata Kelola, dan Kerja Sama
+# 🤝 Standar 2: Tata Pamong, Tata Kelola, dan Kerja Sama
 
 - **Struktur Organisasi**: [Deskripsi struktur tata pamong]
 - **SOP Tata Kelola**: [Penjelasan mekanisme pengambilan keputusan]
