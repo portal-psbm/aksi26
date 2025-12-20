@@ -4,7 +4,7 @@ title: Profil Program Studi
 permalink: /profil/
 ---
 
-# Profil Program Studi
+# 🏫 Profil Program Studi
 
 ## Identitas
 - **Nama Program Studi**: [Broadband Multimedia]
