@@ -4,7 +4,7 @@ title: Standar 7
 permalink: /standar-7/
 ---
 
-# Standar 7: Sistem Penjaminan Mutu
+# 🔍 Standar 7: Sistem Penjaminan Mutu
 
 - **Dokumen SPMI**: Manual mutu, standar operasional prosedur
 - **Siklus PPEPP**: 
