@@ -4,7 +4,7 @@ title: Standar 6
 permalink: /standar-6/
 ---
 
-# Standar 6: Sarana dan Prasarana
+# 🏢 Standar 6: Sarana dan Prasarana
 
 - **Laboratorium**: [Daftar lab + peralatan]
 - **Perpustakaan**: Koleksi buku, jurnal, akses database
