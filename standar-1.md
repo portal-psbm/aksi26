@@ -4,7 +4,7 @@ title: Standar 1
 permalink: /standar-1/
 ---
 
-# Standar 1: Visi, Misi, Tujuan, dan Sasaran (VMTS)
+# 🎯 Standar 1: Visi, Misi, Tujuan, dan Sasaran (VMTS)
 
 - **Visi**: [Isi visi program studi]
 - **Misi**: 
