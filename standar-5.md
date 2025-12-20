@@ -4,7 +4,7 @@ title: Standar 5
 permalink: /standar-5/
 ---
 
-# Standar 5: Kurikulum, Capaian Pembelajaran Lulusan (CPL), dan Pembelajaran
+# 📚 Standar 5: Kurikulum, Capaian Pembelajaran Lulusan (CPL), dan Pembelajaran
 
 - **Struktur Kurikulum**: Sesuai KKNI Level 6
 - **Capaian Pembelajaran Lulusan (CPL)**: [Daftar CPL]
