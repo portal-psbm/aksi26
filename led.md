@@ -4,7 +4,7 @@ title: Laporan Evaluasi Diri (LED)
 permalink: /led/
 ---
 
-# Laporan Evaluasi Diri (LED)
+# 📊 Laporan Evaluasi Diri (LED)
 
 Laporan Evaluasi Diri (LED) adalah dokumen reflektif yang disusun secara internal oleh Program Studi sebagai bagian dari persiapan akreditasi eksternal oleh LAM Teknik. LED mencerminkan komitmen institusi terhadap peningkatan berkelanjutan dan transparansi.
 
