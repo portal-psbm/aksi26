@@ -7,6 +7,15 @@ permalink: /progress/
 # 📊 Progress Persiapan Akreditasi LAM Teknik  
 **Periode: Desember 2025**
 
+<div class="chart-container">
+  <div class="pie-chart" id="progressChart">
+    <div class="pie"></div>
+    <div class="center">33%</div>
+  </div>
+</div>
+
+## Rincian Status per Standar
+
 | No | Standar | Judul | Status |
 |----|--------|------|--------|
 | 1 | Standar 1 | Visi, Misi, Tujuan, Sasaran | ✅ **Selesai** |
@@ -21,7 +30,40 @@ permalink: /progress/
 
 ### Ringkasan
 - **Total Selesai**: 3/9 (33%)  
-- **Target**: 100% selesai pada **Agustus 2026**  
-- **Next Milestone**: Finalisasi Standar 2, 4 pada Januari 2026
+- **Target**: 100% selesai pada **Agustus 2026**
 
 > 💡 Website ini diperbarui secara berkala sebagai bagian dari transparansi persiapan akreditasi.
+
+<style>
+  .chart-container {
+    display: flex;
+    justify-content: center;
+    margin: 24px 0 32px;
+  }
+  .pie-chart {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: conic-gradient(#4caf50 0% 33%, #e0e0e0 33% 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  .pie-chart .center {
+    position: absolute;
+    font-size: 24px;
+    font-weight: bold;
+    color: #0d47a1;
+  }
+  @media (max-width: 768px) {
+    .pie-chart {
+      width: 160px;
+      height: 160px;
+    }
+    .pie-chart .center {
+      font-size: 20px;
+    }
+  }
+</style>
