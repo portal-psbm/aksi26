@@ -4,7 +4,7 @@ title: Lembar Kerja Program Studi (LKPS)
 permalink: /lkps/
 ---
 
-# Lembar Kerja Program Studi (LKPS)
+# 📋 Lembar Kerja Program Studi (LKPS)
 
 LKPS adalah instrumen resmi yang dikeluarkan oleh **LAM Teknik** untuk mengumpulkan data kuantitatif dan kualitatif dari Program Studi dalam rangka asesmen akreditasi.
 
