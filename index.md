@@ -59,7 +59,7 @@ permalink: /
 </style>
 
 <div class="hero">
-  <h1>🎯 Persiapan Akreditasi Prodi Broadband Multimedia 2026</h1>
+  <h1>🎯 Portal Akreditasi Prodi Broadband Multimedia 2026</h1>
   
   <p>
     **Target Asesmen**: **September 2026**<br>
