@@ -4,7 +4,7 @@ title: Beranda
 permalink: /
 ---
 
-# Persiapan Akreditasi Prodi Broadband Multimedia 2026
+# Portal Akreditasi Prodi Broadband Multimedia 2026
 
 **Target Asesmen**: **September 2026**
 **Status Saat Ini**: Persiapan Tahap Awal (Desember 2025)
