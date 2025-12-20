@@ -4,7 +4,7 @@ title: Standar 3
 permalink: /standar-3/
 ---
 
-# Standar 3: Mahasiswa dan Lulusan
+# 👩‍🎓 Standar 3: Mahasiswa dan Lulusan
 
 - **Profil Mahasiswa**: Jumlah, latar belakang, prestasi
 - **Pembinaan**: Beasiswa, pelatihan soft skills, bimbingan karier
