@@ -4,7 +4,7 @@ title: Bukti Dokumen Pendukung
 permalink: /bukti/
 ---
 
-### 📎 Bukti Dokumen Pendukung Akreditasi
+# 📎 Bukti Dokumen Pendukung Akreditasi
 
 Dokumen berikut telah dikumpulkan dan diverifikasi sebagai bukti pemenuhan terhadap **9 Standar Akreditasi LAM Teknik**. Semua file tersedia dalam format digital dan siap diaudit.
 
