@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bukti Dokumen Pendukung
-permalink: /bukti-dokumen/
+permalink: /bukti/
 ---
 
 # Bukti Dokumen Pendukung Akreditasi
